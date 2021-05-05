@@ -1,17 +1,22 @@
+import BarChart from "components/BarChart";
+import DataTable from "components/DataTable";
 import Footer from "components/Footer";
 import NavBar from "components/NavBar";
-import DataTable from "components/DataTable";
 
 function App() {
   return (
     <>
       <NavBar />
       <div className="container">
-        <h1 className="text-primary">Hello World</h1>
-        <DataTable/>
+        <h1 className="text-primary py-3">Dashborad de Vendas</h1>
+        <div className="row px-3">
+        
+          
+        </div>
+        
+        <DataTable />
       </div>
-      <Footer/>
-     
+      <Footer />
     </>
   );
 }
