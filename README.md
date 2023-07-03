@@ -10,13 +10,6 @@ de vendas e o todal das vendas de cada vendedor.
 
 ## Ferramentas 🛠
 
-### Back end
-
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-
 ### Front end
 
  - HTML 
